@@ -1,6 +1,6 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 12/03/2026
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,8 +47,13 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+## AUTOCAD FUSION:
+<img width="1920" height="965" alt="Screenshot 2026-03-12 205701" src="https://github.com/user-attachments/assets/bca38b15-7fee-4828-afa7-938471283899" />
+## ULTIMAKE CURA:
+<img width="1918" height="962" alt="Screenshot 2026-03-12 205549" src="https://github.com/user-attachments/assets/789a9e6a-3ec0-4608-9e99-619a6b1e7d26" />
+
+### Name: KARTHIC V
+### Register Number: 212225240068
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
