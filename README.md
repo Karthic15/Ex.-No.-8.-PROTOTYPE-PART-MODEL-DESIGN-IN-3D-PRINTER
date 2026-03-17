@@ -48,10 +48,10 @@
 ## Output:
 
 ## AUTOCAD FUSION:
-![alt text](<Screenshot 2026-03-16 133349.png>)
+![alt text](<Screenshot 2026-03-17 190908.png>)
 
 ## ULTIMAKER CURA:
-![alt text](<Screenshot 2026-03-16 132344.png>)
+![alt text](<Screenshot 2026-03-17 190632.png>)
 
 ### Name: KARTHIC V
 ### Register Number: 212225240068
